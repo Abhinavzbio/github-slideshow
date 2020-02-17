@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to the new slide"
 ---
-Your text
+My text
+
 Click the left arrow to travel back
